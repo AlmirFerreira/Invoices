@@ -1,0 +1,6 @@
+c:\users\almir\source\repos\Invoices\Invoices\bin\Debug\Invoices.exe.config
+c:\users\almir\source\repos\Invoices\Invoices\bin\Debug\Invoices.exe
+c:\users\almir\source\repos\Invoices\Invoices\bin\Debug\Invoices.pdb
+c:\users\almir\source\repos\Invoices\Invoices\obj\Debug\Invoices.csproj.CoreCompileInputs.cache
+c:\users\almir\source\repos\Invoices\Invoices\obj\Debug\Invoices.exe
+c:\users\almir\source\repos\Invoices\Invoices\obj\Debug\Invoices.pdb
